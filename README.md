@@ -1,6 +1,22 @@
 # M431 Dokumentation
 Das Modul M431 ist dafür da um die kompetenz zum selbst orientierten lernen und projektplanung zu verbesern.
 
+#Inhaltsverzeichnis
+
+##informieren
+
+##Planen
+
+##Entscheiden
+
+##Realisieren
+
+##Kontrolieren
+
+##Auswerten
+
+#Team-Arbeitsjournal
+
 ## 30.05.2022
 Heute hatten wir unsere bisherigen Pläne mit unserem Auftragsgeber besprochen. Dazu gehörte der Projektauftrag und unsere Lerndokumentation.
 In der restlichen Zeit erstellten wir einen Zeitplan und schauten uns eins zwei Tipps zur einfachen bearbeitung mit Adobe Premiere Pro an.
@@ -14,3 +30,4 @@ Dieser Nachmittag waren wir im ganzen sehr Produktiv. Für "Aussenstehnende" wir
 ## 27.06.2022
 Wir erstellen gerade das Video mit den bereits bestehenden Clips. Ein paar Funktionen sind uns noch entgegengekommen, welche die Arbeit ein wenig vereinfachten. Zu denen haben wir uns auch noch ein wenig schlau gemacht und wissen jetzt wie wir die Clips besser und flüssiger zusammenschneiden. Wir werden jetzt noch weitere Clips suchen und diese dann ebenfalls einfügen. Beide sind zuversichtlich dass das Video sehr gut wird.
 
+## 04.07.2022
