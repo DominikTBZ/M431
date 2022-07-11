@@ -1,20 +1,20 @@
 # Das Modul M431 und alles zu unserem Projekt "Gaming Montage" 
 
-#Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
-##[informieren](Informieren.md)
+### [informieren](Informieren.md)
 
-##[Planen](Planen.md)
+### [Planen](Planen.md)
 
-##[Entscheiden](Entscheiden.md)
+### [Entscheiden](Entscheiden.md)
 
-##[Realisieren](Realisieren.md)
+### [Realisieren](Realisieren.md)
 
-##[Kontrolieren](Kontrolieren.md)
+### [Kontrolieren](Kontrolieren.md)
 
-##[Auswerten](Auswerten.md)
+### [Auswerten](Auswerten.md)
 
-#[Team-Arbeitsjournal](Projektdokumentation.md)
+### [Team-Arbeitsjournal](Projektdokumentation.md)
 
 
 --------------------------------------------------------------------------
