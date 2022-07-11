@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 
-### [informieren](Informieren.md)
+### [Informieren](Informieren.md)
 
 ### [Planen](Planen.md)
 
