@@ -1,4 +1,4 @@
-#Entscheiden
+# Entscheiden
 
 Warum haben wir uns für ein Videoschnittprojekt entschieden?
  

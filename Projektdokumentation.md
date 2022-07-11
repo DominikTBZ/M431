@@ -1,4 +1,4 @@
-#Team Arbeitsjournal
+# Team Arbeitsjournal
 
 ## 30.05.2022
 Heute hatten wir unsere bisherigen Pläne mit unserem Auftragsgeber besprochen. Dazu gehörte der Projektauftrag und unsere Lerndokumentation.

@@ -1,4 +1,4 @@
-#Planen
+# Planen
 Das Planen haben wir mit einem Zeitplan gemacht, denn in dem wir uns Meilensteine gesetzt haben. 
 •    Clips zusammen sammeln                     30.05
 •    Begin mit Schnitt                          13.06
